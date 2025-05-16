@@ -2,7 +2,7 @@
 ---
 **Discord Token Account Checker**
 
-This utility is designed to validate Discord account tokens efficiently while maintaining a straightforward and minimal code structure.
+This utility is designed to validate Discord account tokens efficiently while maintaining a straightforward and minimal code structure. (Open Source)
 
 **Key Features:**
 
